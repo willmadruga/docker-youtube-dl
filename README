@@ -1,0 +1,9 @@
+Docker container for youtube downloader binary.
+http://rg3.github.io/youtube-dl/
+
+Docker all the things \o/
+
+Usage:
+docker run --rm -v /wherever/you/want/to/save:/data youtube-dl http://whatever.vid.url
+
+2016-10-08
